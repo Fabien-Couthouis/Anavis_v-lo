@@ -63,7 +63,6 @@ def normalize_stations(name, stations_with_nb, station_without_nb):
     for idx, station in enumerate(station_without_nb):
         if station in name:
             name = stations_with_nb[idx]
-
     return name
 
 
