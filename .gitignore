@@ -1,6 +1,9 @@
 #Data folder
 #Data/
 
+#Linux dir folder
+.directory/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
