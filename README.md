@@ -5,5 +5,4 @@ Data processing and analysis: [Parma bicyle](https://www.labri.fr/perso/rgiot/co
 ## Credits
 By Alexandre Heuillet & Fabien Couthouis
 
-Data analysis course - (ENSEIRB MATMECA)[https://enseirb-matmeca.bordeaux-inp.fr/fr] IA 2019
-[Romain Giot](https://www.labri.fr/perso/rgiot/) - [Romain Bourqui](https://www.labri.fr/perso/bourqui/)
+Data analysis course by [Romain Giot](https://www.labri.fr/perso/rgiot/) & [Romain Bourqui](https://www.labri.fr/perso/bourqui/) at [ENSEIRB MATMECA](https://enseirb-matmeca.bordeaux-inp.fr/fr) AI option, 2019
