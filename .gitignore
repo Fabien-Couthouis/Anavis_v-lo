@@ -1,8 +1,8 @@
-#Data folder
-#Data/
+#DVscode
+.vscode/
 
 #Linux dir folder
-.directory/
+.directory
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
